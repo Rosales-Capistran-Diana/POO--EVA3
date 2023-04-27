@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="EVA3_1_Unchecked_exceptions">
+  <ClassDiagramComponents>
+    <Class name="EVA3_1_Unchecked_exceptions" package="eva3_1_unchecked_exceptions" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+      </Methods>
+    </Class>
+    <Class name="Prueba" package="eva3_1_unchecked_exceptions" visibility="public" xPosition="320.0" yPosition="20.0">
+      <Fields>
+        <Field name="x" type="int" visibility="package"/>
+      </Fields>
+      <Constructors/>
+      <Methods/>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
