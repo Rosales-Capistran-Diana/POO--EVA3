@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="EVA3_10_Escritura_Archivos_TXT">
+  <ClassDiagramComponents>
+    <Class name="EVA3_10_Escritura_Archivos_TXT" package="eva3_10_escritura_archivos_txt" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+        <Method name="writeUsingFiles" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String" name="ruta"/>
+          <Argument type="String" name="datos"/>
+        </Method>
+        <Method name="wirteUsingFileWrite" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String" name="ruta"/>
+          <Argument type="String" name="datos"/>
+        </Method>
+        <Method name="writeUsingBufferedWriter" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String" name="ruta"/>
+          <Argument type="String" name="datos"/>
+        </Method>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
