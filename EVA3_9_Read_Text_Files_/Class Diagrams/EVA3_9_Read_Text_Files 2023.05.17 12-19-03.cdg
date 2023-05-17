@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="EVA3_9_Read_Text_Files">
+  <ClassDiagramComponents>
+    <Class name="EVA3_9_Read_Text_Files" package="eva3_9_read_text_files" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+        <Method name="readUsingFiles" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String" name="ruta"/>
+        </Method>
+        <Method name="ReadUsingBufferedReader" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String" name="ruta"/>
+        </Method>
+        <Method name="readUsingFileReader" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String" name="ruta"/>
+        </Method>
+        <Method name="readUsingScanner" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String" name="ruta"/>
+        </Method>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
