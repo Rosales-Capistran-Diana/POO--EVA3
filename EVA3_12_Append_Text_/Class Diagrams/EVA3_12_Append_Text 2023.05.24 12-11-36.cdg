@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ClassDiagram name="EVA3_12_Append_Text">
+  <ClassDiagramComponents>
+    <Class name="EVA3_12_Append_Text" package="eva3_12_append_text" visibility="public" xPosition="20.0" yPosition="20.0">
+      <Fields/>
+      <Constructors/>
+      <Methods>
+        <Method name="main" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String[]" name="args"/>
+        </Method>
+        <Method name="writeUsingBufferedWriter" returnType="void" visibility="public" isStatic="true">
+          <Argument type="String" name="ruta"/>
+          <Argument type="String" name="datos"/>
+        </Method>
+      </Methods>
+    </Class>
+  </ClassDiagramComponents>
+  <ClassDiagramRelations/>
+</ClassDiagram>
